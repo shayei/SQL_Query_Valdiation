@@ -1,7 +1,7 @@
 
 <img src="https://banner2.cleanpng.com/20180705/yke/kisspng-sql-database-computer-icons-download-sql-icon-5b3ed4c9cc9013.8225606715308443618379.jpg" width="600" height="350">
 
-# SQL Query Syntax Checker
+# SQL Query Validation Checker
 
 
 ```
